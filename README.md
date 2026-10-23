@@ -34,10 +34,10 @@ An interactive HR Analytics Dashboard developed using Power BI to explore workfo
 ## Dashboard Screenshots
 
 ### Workforce Overview
-![HR Analytics Dashboard - Overview](screenshots/hr-dashboard-overview.png)
+![HR Dashboard - Overview](screenshots/hr-dashboard-overview.png)
 
 ### Employee Attrition Analysis
-![HR Analytics Dashboard - Attrition](screenshots/hr-dashboard-attrition.png)
+![HR Dashboard - Attrition](screenshots/hr-dashboard-attrition.png)
 
 ## Key Learnings
 - Creating DAX measures for workforce KPIs
